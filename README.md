@@ -8,3 +8,10 @@ you can rewind its input by setting the avotx_poller.cfg:revision = 0
 
 
 enjoy!
+
+Femaven's ideas:
+DNS 
+  update poller to pull in suspicious DNS records from OTX
+  Pull in DNS queries for correlation
+Dashboards for both IP and DNS
+Incorporating CIM
